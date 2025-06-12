@@ -1,0 +1,1 @@
+An in-progress rewrite that was never completed. Feel free to copy or do whatever. Still includes a lot of the Kayo bullshit that has been since removed in ethereal (in progess rewrite). 
